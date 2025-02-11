@@ -1,1 +1,2 @@
-*To write into futures*
+# personal-special
+simple for self-learning.
