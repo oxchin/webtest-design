@@ -1,2 +1,0 @@
-Assets put here!
-Include : png, jpeg, webp, avif, & gif
